@@ -1,0 +1,19 @@
+{
+    "listName": "Test",
+    "tasks": [
+        {
+            "taskDescription": "description 1",
+            "taskName": "task 1",
+            "completed": false,
+            "deadline": "None",
+            "priority": 3
+        },
+        {
+            "taskDescription": "description 2",
+            "taskName": "task 2",
+            "completed": true,
+            "deadline": "2022-08-08 23:59",
+            "priority": 0
+        }
+    ]
+}
